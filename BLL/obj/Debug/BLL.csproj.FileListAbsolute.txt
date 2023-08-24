@@ -1,0 +1,17 @@
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\BLL.exe.config
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\BLL.exe
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\BLL.pdb
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DAL.exe
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DTO.exe
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DAL.pdb
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DAL.exe.config
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DTO.pdb
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\bin\Debug\DTO.exe.config
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.exe
+D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\BLL\obj\Debug\BLL.pdb
